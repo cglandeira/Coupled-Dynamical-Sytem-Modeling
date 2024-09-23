@@ -11,6 +11,5 @@ This project presents a custom coupled dynamical system inspired by the SIR mode
 - <b>Jupyter</b>
 
 <h2>Program walk-through:</h2>
-See jupyter notebook:
 
-- [Modeling a Zombie Apocalypse: A Coupled Dynamical System](https://github.com/cglandeira/Coupled-Dynamical-Sytem-Modeling/blob/main/Modeling%20a%20Zombie%20Apocalypse%20A%20Coupled%20Dynamical%20System.ipynb)
+- [See jupyter notebook](https://github.com/cglandeira/Coupled-Dynamical-Sytem-Modeling/blob/main/Modeling%20a%20Zombie%20Apocalypse%20A%20Coupled%20Dynamical%20System.ipynb)
